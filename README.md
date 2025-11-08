@@ -78,8 +78,3 @@ Each topic includes **conceptual**, **scenario-based**, and **hands-on** questio
 
 ---
 
-## 🚀 How to Use This Repository
-
-1. Clone this repo  
-   ```bash
-   git clone https://github.com/<your-username>/aws-interview-questions.git
