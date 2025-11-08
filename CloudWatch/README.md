@@ -232,5 +232,3 @@ Combine CloudWatch with:
 
 ---
 
-**Author:** _Prepared for AWS DevOps & Cloud Engineer Interviews_  
-**File:** `CloudWatch_Interview_Questions.md`
