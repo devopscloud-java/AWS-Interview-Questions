@@ -1,10 +1,14 @@
 AWS IAM Interview Questions & Answers
+
 1. Basic Questions
 
 Q1. What is AWS IAM and why is it used?
-A: IAM (Identity and Access Management) is a service that allows you to securely control access to AWS resources. It manages users, groups, roles, and permissions. IAM is used to enforce security, apply least privilege, and manage authentication and authorization for AWS services.
+
+A: IAM (Identity and Access Management) is a service that allows you to securely control access to AWS resources.
+It manages users, groups, roles, and permissions. IAM is used to enforce security, apply least privilege, and manage authentication and authorization for AWS services.
 
 Q2. What are IAM Users, Groups, Roles, and Policies?
+
 A:
 
 User: Individual identity with credentials (username/password, access keys).
@@ -18,12 +22,17 @@ Policy: JSON document defining permissions (allow/deny actions on resources).
 Q3. Difference between IAM User and IAM Role
 
 Feature	IAM User	IAM Role
+
 Identity	Permanent	Temporary
+
 Credentials	Long-term	Temporary (via STS)
+
 Use-case	Human users	AWS services, cross-account access
 
 Q4. What is an IAM Policy? Name types.
+
 A: Policies are JSON documents defining permissions.
+
 Types:
 
 Managed Policies: AWS-managed or customer-managed reusable policies.
